@@ -23,7 +23,7 @@ package org.springframework.boot.loader.tools.sample;
  */
 public class ClassWithMainMethod {
 
-	public static void main(String[] args) {
+	public static void main(String... args) {
 	}
 
 }
